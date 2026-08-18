@@ -33,4 +33,4 @@ Yes, it's built and tested for Windows.
 
 **Step 2.** Unpack the downloaded archive to a folder of your choice.
 
-**Step 3.** Run the setup file and follow the on-screen instructions.
+**Step 3.** Run the setup file and follow the on-screen instructions. 
